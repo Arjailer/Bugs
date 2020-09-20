@@ -1,2 +1,2 @@
 # Bugs
-Public bug tracking for my repositories
+Public bug tracking for my personal projects
